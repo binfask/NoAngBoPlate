@@ -1,5 +1,6 @@
 # NoAngBoPlate
-MEAN Boiler plate with jwt authentication on AdminLTE 3 angular 11
+NoAngBoPlate is developed to easy start your project by simplly pull and run, which developed with nodejs and angular, which contains authentication with jwt on both frontend and backent.
+The templete used in this AdminLTE 3 angular 11.
 
 ## To Use
 To clone and run this repository you'll need Git,MongoDb and Node.js (which comes with npm) installed on your computer. From your command line:
